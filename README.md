@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals　skip CI
+# GitHub Actions Fundamentals　pull request
 
 Repo for the `GitHub Actions Fundamentals` training.
 
